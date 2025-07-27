@@ -1,6 +1,5 @@
 # Browser-Extensions-Collections
-Browser-Extensions  
-There are some browser extensions about pene.
+There are some browser extensions about pene. And now,these extensions are only supported on Google Chrome.
 
 ## 2025/7/27
 - Cookie编辑器1.0.2_0  
