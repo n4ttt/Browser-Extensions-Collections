@@ -1,6 +1,6 @@
 # Browser-Extensions-Collections
 Browser-Extensions  
-There are some browser extensions about pene i collected.
+There are some browser extensions about pene I collected.
 
 ## 2025/7/27
 - Cookie编辑器1.0.2_0  
